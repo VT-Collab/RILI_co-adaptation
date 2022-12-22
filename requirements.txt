@@ -1,0 +1,5 @@
+torch~=1.14.0.dev20221011
+numpy~=1.23.3
+gym~=0.23.1
+pybullet~=3.2.5
+setuptools~=63.4.1
