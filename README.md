@@ -1,10 +1,8 @@
 # Learning Latent Representations to Co-Adapt to Humans
 
-This is the repository for our paper "Learning Latent Representations to Co-Adapt to Humans" in 
-Springer Autonomous Robots. 
-
-This repository contains a minimal code of our method **R**obustly **I**nfluencing **L**atent **I**ntent (RILI).
-It includes four custom gym environments we used in our paper: http://arxiv.org/abs/2212.09586
+This is a minimal repository for our paper "Learning Latent Representations to Co-Adapt to Humans" [http://arxiv.org/abs/2212.09586]. We include two main things:
+- Code for our proposed alogrithm RILI: **R**obustly **I**nfluencing **L**atent **I**ntent
+- Four custom gym environments we used during our simulated experiments
 
 ## Requirements
 - python (v3.9)
